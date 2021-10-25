@@ -1,12 +1,5 @@
 # Dynamic Image Gallery with JS
 ---
-## Links:
-- Repo: https://github.com/Raj-Hunjan/cpnt262-a2
-- Page: https://raj-hunjan.github.io/cpnt262-a2/
-
-## Code Review :
-- I was trying to get my images to be lke beside each other but I couldn't figure it out.
-- I tried to use grid but that just broke everything.
 
 ## Attributions:
 - [Cool looking waves](https://unsplash.com/photos/AQ9-jKmebjM) by [USGS](https://unsplash.com/@usgs)
@@ -20,3 +13,11 @@
 - [2 dogs hanging out with each other](https://unsplash.com/photos/9vc4dQHFU8I) by [Adrian N](https://unsplash.com/@anewevisual)
 - Fesal helped with some of my JS code.
 - Jessica helped me with understanding the assignment and some JS.
+
+## Links:
+- Repo: https://github.com/Raj-Hunjan/cpnt262-a2
+- Page: https://raj-hunjan.github.io/cpnt262-a2/
+
+## Code Review :
+- I was trying to get my images to be lke beside each other but I couldn't figure it out.
+- I tried to use grid but that just broke everything.
