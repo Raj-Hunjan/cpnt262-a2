@@ -1,0 +1,22 @@
+.gallery {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+    max-width: 680px;
+    margin: auto;
+}
+
+.gallery > * {
+    margin: 2rem;
+}
+
+figure, a, figcaption {
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    text-align: center;
+}
+
