@@ -2,7 +2,7 @@
 ---
 ## Links:
 - Repo: https://github.com/Raj-Hunjan/cpnt262-a2
-- Page: 
+- Page: https://raj-hunjan.github.io/cpnt262-a2/
 
 ## Code Review :
 - I was trying to get my images to be lke beside each other but I couldn't figure it out.
