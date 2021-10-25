@@ -1,7 +1,7 @@
 # Dynamic Image Gallery with JS
 ---
 ## Links:
-- Repo: 
+- Repo: https://github.com/Raj-Hunjan/cpnt262-a2
 - Page: 
 
 ## Code Review :
